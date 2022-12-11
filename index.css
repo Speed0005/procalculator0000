@@ -1,0 +1,25 @@
+.Welcome {
+    background-color: rgba(255, 255, 0, 0.650);
+    border-radius: 10px;
+}
+.about {
+    background-color: rgba(0, 250, 154, 0.650);
+    border-radius: 10px;
+}
+.links {
+    background-color: rgba(76, 0, 130, 0.650);
+    color: black;
+    border-radius: 10px;
+    
+}
+body {
+    background-image: url("images/bg.jpeg");
+    background-color: rgba(0, 0, 0, 0.627);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Title {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.650);
+    border-radius: 10px;
+}
